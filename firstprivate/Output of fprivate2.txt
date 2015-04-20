@@ -1,0 +1,308 @@
+pushpinder@pushpinder-PC /cygdrive/c/users/pushpinder/Desktop
+$ gcc -fopenmp fprivate2.c -o fp2
+
+pushpinder@pushpinder-PC /cygdrive/c/users/pushpinder/Desktop
+$ ./fp2
+
+Main counter is currently processing Application ID:4
+Main Counter Token ID :4
+Counter ID assigned:4
+Main counter is currently processing Application ID:2
+Main Counter Token ID :2
+Counter ID assigned:2
+Main counter is currently processing Application ID:5
+Main Counter Token ID :5
+Counter ID assigned:5
+Main counter is currently processing Application ID:6
+Main Counter Token ID :6
+Counter ID assigned:1
+Main counter is currently processing Application ID:1
+Main Counter Token ID :1
+Counter ID assigned:1
+Main counter is currently processing Application ID:3
+Main Counter Token ID :3
+Counter ID assigned:3
+Main counter is currently processing Application ID:7
+Main Counter Token ID :7
+Counter ID assigned:2
+Main counter is currently processing Application ID:8
+Main Counter Token ID :8
+Counter ID assigned:3
+Main counter is currently processing Application ID:9
+Main Counter Token ID :9
+Counter ID assigned:4
+Main counter is currently processing Application ID:10
+Main Counter Token ID :10
+Counter ID assigned:5
+Main counter is currently processing Application ID:11
+Main Counter Token ID :11
+Counter ID assigned:1
+Main counter is currently processing Application ID:12
+Main Counter Token ID :12
+Counter ID assigned:2
+Main counter is currently processing Application ID:13
+Main Counter Token ID :13
+Counter ID assigned:3
+Main counter is currently processing Application ID:14
+Main Counter Token ID :14
+Counter ID assigned:4
+Main counter is currently processing Application ID:15
+Main Counter Token ID :15
+Counter ID assigned:5
+Main counter is currently processing Application ID:16
+Main Counter Token ID :16
+Counter ID assigned:1
+Main counter is currently processing Application ID:17
+Main Counter Token ID :17
+Counter ID assigned:2
+Main counter is currently processing Application ID:18
+Main Counter Token ID :18
+Counter ID assigned:3
+Main counter is currently processing Application ID:19
+Main Counter Token ID :19
+Counter ID assigned:4
+Main counter is currently processing Application ID:20
+Main Counter Token ID :20
+Counter ID assigned:5
+Main counter is currently processing Application ID:21
+Main Counter Token ID :21
+Counter ID assigned:1
+Main counter is currently processing Application ID:22
+Main Counter Token ID :22
+Counter ID assigned:2
+Main counter is currently processing Application ID:23
+Main Counter Token ID :23
+Counter ID assigned:3
+Main counter is currently processing Application ID:24
+Main Counter Token ID :24
+Counter ID assigned:4
+Main counter is currently processing Application ID:25
+Main Counter Token ID :25
+Counter ID assigned:5
+Main counter is currently processing Application ID:26
+Main Counter Token ID :26
+Counter ID assigned:1
+Main counter is currently processing Application ID:27
+Main Counter Token ID :27
+Counter ID assigned:2
+Main counter is currently processing Application ID:28
+Main Counter Token ID :28
+Counter ID assigned:3
+Main counter is currently processing Application ID:29
+Main Counter Token ID :29
+Counter ID assigned:4
+Main counter is currently processing Application ID:30
+Main Counter Token ID :30
+Counter ID assigned:5
+Main counter is currently processing Application ID:31
+Main Counter Token ID :31
+Counter ID assigned:1
+Main counter is currently processing Application ID:32
+Main Counter Token ID :32
+Counter ID assigned:2
+Main counter is currently processing Application ID:33
+Main Counter Token ID :33
+Counter ID assigned:3
+Main counter is currently processing Application ID:34
+Main Counter Token ID :34
+Counter ID assigned:4
+Main counter is currently processing Application ID:35
+Main Counter Token ID :35
+Counter ID assigned:5
+Main counter is currently processing Application ID:36
+Main Counter Token ID :36
+Counter ID assigned:1
+Main counter is currently processing Application ID:37
+Main Counter Token ID :37
+Counter ID assigned:2
+Main counter is currently processing Application ID:38
+Main Counter Token ID :38
+Counter ID assigned:3
+Main counter is currently processing Application ID:39
+Main Counter Token ID :39
+Counter ID assigned:4
+Main counter is currently processing Application ID:40
+Main Counter Token ID :40
+Counter ID assigned:5
+Main counter is currently processing Application ID:41
+Main Counter Token ID :41
+Counter ID assigned:1
+Main counter is currently processing Application ID:42
+Main Counter Token ID :42
+Counter ID assigned:2
+Main counter is currently processing Application ID:43
+Main Counter Token ID :43
+Counter ID assigned:3
+Main counter is currently processing Application ID:44
+Main Counter Token ID :44
+Counter ID assigned:4
+Main counter is currently processing Application ID:45
+Main Counter Token ID :45
+Counter ID assigned:5
+Main counter is currently processing Application ID:46
+Main Counter Token ID :46
+Counter ID assigned:1
+Main counter is currently processing Application ID:47
+Main Counter Token ID :47
+Counter ID assigned:2
+Main counter is currently processing Application ID:48
+Main Counter Token ID :48
+Counter ID assigned:3
+Main counter is currently processing Application ID:49
+Main Counter Token ID :49
+Counter ID assigned:4
+Main counter is currently processing Application ID:50
+Main Counter Token ID :50
+Counter ID assigned:5
+Main counter is currently processing Application ID:51
+Main Counter Token ID :51
+Counter ID assigned:1
+Main counter is currently processing Application ID:52
+Main Counter Token ID :52
+Counter ID assigned:2
+Main counter is currently processing Application ID:53
+Main Counter Token ID :53
+Counter ID assigned:3
+Main counter is currently processing Application ID:54
+Main Counter Token ID :54
+Counter ID assigned:4
+Main counter is currently processing Application ID:55
+Main Counter Token ID :55
+Counter ID assigned:5
+Main counter is currently processing Application ID:56
+Main Counter Token ID :56
+Counter ID assigned:1
+Main counter is currently processing Application ID:57
+Main Counter Token ID :57
+Counter ID assigned:2
+Main counter is currently processing Application ID:58
+Main Counter Token ID :58
+Counter ID assigned:3
+Main counter is currently processing Application ID:59
+Main Counter Token ID :59
+Counter ID assigned:4
+Main counter is currently processing Application ID:60
+Main Counter Token ID :60
+Counter ID assigned:5
+Main counter is currently processing Application ID:61
+Main Counter Token ID :61
+Counter ID assigned:1
+Main counter is currently processing Application ID:62
+Main Counter Token ID :62
+Counter ID assigned:2
+Main counter is currently processing Application ID:63
+Main Counter Token ID :63
+Counter ID assigned:3
+Main counter is currently processing Application ID:64
+Main Counter Token ID :64
+Counter ID assigned:4
+Main counter is currently processing Application ID:65
+Main Counter Token ID :65
+Counter ID assigned:5
+Main counter is currently processing Application ID:66
+Main Counter Token ID :66
+Counter ID assigned:1
+Main counter is currently processing Application ID:67
+Main Counter Token ID :67
+Counter ID assigned:2
+Main counter is currently processing Application ID:68
+Main Counter Token ID :68
+Counter ID assigned:3
+Main counter is currently processing Application ID:69
+Main Counter Token ID :69
+Counter ID assigned:4
+Main counter is currently processing Application ID:70
+Main Counter Token ID :70
+Counter ID assigned:5
+Main counter is currently processing Application ID:71
+Main Counter Token ID :71
+Counter ID assigned:1
+Main counter is currently processing Application ID:72
+Main Counter Token ID :72
+Counter ID assigned:2
+Main counter is currently processing Application ID:73
+Main Counter Token ID :73
+Counter ID assigned:3
+Main counter is currently processing Application ID:74
+Main Counter Token ID :74
+Counter ID assigned:4
+Main counter is currently processing Application ID:75
+Main Counter Token ID :75
+Counter ID assigned:5
+Main counter is currently processing Application ID:76
+Main Counter Token ID :76
+Counter ID assigned:1
+Main counter is currently processing Application ID:77
+Main Counter Token ID :77
+Counter ID assigned:2
+Main counter is currently processing Application ID:78
+Main Counter Token ID :78
+Counter ID assigned:3
+Main counter is currently processing Application ID:79
+Main Counter Token ID :79
+Counter ID assigned:4
+Main counter is currently processing Application ID:80
+Main Counter Token ID :80
+Counter ID assigned:5
+Main counter is currently processing Application ID:81
+Main Counter Token ID :81
+Counter ID assigned:1
+Main counter is currently processing Application ID:82
+Main Counter Token ID :82
+Counter ID assigned:2
+Main counter is currently processing Application ID:83
+Main Counter Token ID :83
+Counter ID assigned:3
+Main counter is currently processing Application ID:84
+Main Counter Token ID :84
+Counter ID assigned:4
+Main counter is currently processing Application ID:85
+Main Counter Token ID :85
+Counter ID assigned:5
+Main counter is currently processing Application ID:86
+Main Counter Token ID :86
+Counter ID assigned:1
+Main counter is currently processing Application ID:87
+Main Counter Token ID :87
+Counter ID assigned:2
+Main counter is currently processing Application ID:88
+Main Counter Token ID :88
+Counter ID assigned:3
+Main counter is currently processing Application ID:89
+Main Counter Token ID :89
+Counter ID assigned:4
+Main counter is currently processing Application ID:90
+Main Counter Token ID :90
+Counter ID assigned:5
+Main counter is currently processing Application ID:91
+Main Counter Token ID :91
+Counter ID assigned:1
+Main counter is currently processing Application ID:92
+Main Counter Token ID :92
+Counter ID assigned:2
+Main counter is currently processing Application ID:93
+Main Counter Token ID :93
+Counter ID assigned:3
+Main counter is currently processing Application ID:94
+Main Counter Token ID :94
+Counter ID assigned:4
+Main counter is currently processing Application ID:95
+Main Counter Token ID :95
+Counter ID assigned:5
+Main counter is currently processing Application ID:96
+Main Counter Token ID :96
+Counter ID assigned:1
+Main counter is currently processing Application ID:97
+Main Counter Token ID :97
+Counter ID assigned:2
+Main counter is currently processing Application ID:98
+Main Counter Token ID :98
+Counter ID assigned:3
+Main counter is currently processing Application ID:99
+Main Counter Token ID :99
+Counter ID assigned:4
+Main counter is currently processing Application ID:100
+Main Counter Token ID :100
+Counter ID assigned:5
+pushpinder@pushpinder-PC /cygdrive/c/users/pushpinder/Desktop
+$
